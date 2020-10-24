@@ -15,7 +15,7 @@ Ally Pride Fashion is a novel idea, an open platform to provide a one-stop solut
 “Ally Pride Fashion” is a novel and innovative approach that gives the LGBT an open platform to connect with professionals and companies, to progress in their careers and leave a mark on the Fashion Industry.
 
 <p align="center">
-<img src="https://github.com/Kavyapriyakp/NASA-Ally/blob/main/images/signup%20pride.jpeg" width="598" height="600">
+<img src="https://github.com/Kavyapriyakp/NASA-Ally/blob/main/images/signup%20pride.jpeg?raw=true" width="598" height="600">
 </p>
 
 ### Future impact:
