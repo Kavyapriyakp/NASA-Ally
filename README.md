@@ -9,39 +9,13 @@ Our congenial IBM Watson Assistant Chatbot "Ally Unity" gives an extensive tour 
 <img src="https://github.com/Kavyapriyakp/NASA-Ally/blob/main/images/ally%20logo.jpeg?raw=true" width="598" height="600">
 </p>
 
-### How to run the website?
-To start the project first in the cmd console run the following pip commands:
-
-pip install django
-
-pip install django-resized
-
-pip install Pillow
-
-pip install django-bootstrap4
-
-To run the project:
-Start the cmd
-using the cd method go to the project site file.
-
-use the command:
-cd projectsite
-
-py manage.py makemigrations
-
-py manage.py migrate
-
-py manage.py runserver
-
-copy the url given to the browser.
-^^
 
 ## What is Ally Pride Fashion?
 Ally Pride Fashion is a novel idea, an open platform to provide a one-stop solution for jobs and internships, making the LGBT community grow larger and stronger in the Fashion industry, by making their own portfolio cards visible to Fashion Industry Hiring managers and companies.🌈
 “Ally Pride Fashion” is a novel and innovative approach that gives the LGBT an open platform to connect with professionals and companies, to progress in their careers and leave a mark on the Fashion Industry.
 
 <p align="center">
-<img src="https://github.com/stutisehgal/NASA-Ally/blob/main/images/signup%20pride.jpeg" width="598" height="600">
+<img src="https://github.com/Kavyapriyakp/NASA-Ally/blob/main/images/signup%20pride.jpeg" width="598" height="600">
 </p>
 
 ### Future impact:
