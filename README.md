@@ -21,10 +21,6 @@ Ally Pride Fashion is a novel idea, an open platform to provide a one-stop solut
 ### Future impact:
 As the LGBTQ is blooming in fashion industry our pride fashion can be a common platform for fashion industry people to communicate, find new job opportunities, share information, etc. Fashion plays a very large role in today's era and there's no specific platform for the industry. Hence Pride fashion can be the future linkedin.
 
-<p align="center">
-<img src="https://github.com/Kavyapriyakp/NASA-Ally/raw/main/images/card.png?raw=true" width="598" height="600">
-</p>
-
 ## What is Ally Discourse?
 The process of sharing stories strengthens our ability to consider different perspectives and builds our empathy towards others. A community cannot exist unless the people coming together care about and feel connected to each other. Conversations about one’s race and gender may be uncomfortable, yet it is at the edge of discomfort where we can learn the most. Since we cannot remove the risk from such conversations, we encourage a shift in mindset. By moving from safe spaces to our forum Ally Discourse, we can rise to the challenge of having honest conversations that lead to a more equitable society. Ally Discourse provides a platform to openly share your stories when injustice was done to or around you and help prevent it any further! 👫👩🏻‍🤝‍👩🏻 
 
@@ -45,20 +41,22 @@ Reflecting on whose viewpoints are given power—in all subjects, including math
 ## What are future aspects and impact of fashion pride?
 1. More secure and meticulous screening for a company email address and verification.
 
-<p align="center">
-<img src="https://github.com/Kavyapriyakp/NASA-Ally/blob/main/images/signup%20pride%20corporate.jpeg?raw=true" width="598" height="600">
-</p>
-
 2. Implementing of creating a blog by the individual and company user type
 
 3. Filtering of cards on the basis of skill tags and creating skill tags.
+
+4. Automatic Forum/Ally discourse moderation. 
+
+<p align="center">
+<img src="https://github.com/Kavyapriyakp/NASA-Ally/blob/main/images/signup%20pride%20corporate.jpeg?raw=true" width="598" height="600">
+</p>
 
 
 <p align="center">
 <img src="https://github.com/Kavyapriyakp/NASA-Ally/blob/main/images/create%20card%20indi.jpeg?raw=true" width="598" height="600">
 </p>
 
-4. Automatic Forum/Ally discourse moderation. 
+
 
 
 
