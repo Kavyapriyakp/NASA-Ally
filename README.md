@@ -6,7 +6,7 @@ There is still much pain, confusion, fear, and anger around racial and transgend
 Our congenial IBM Watson Assistant Chatbot "Ally Unity" gives an extensive tour of the Ally website.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/stutisehgal/NASA-Ally/main/images/ally%20logo.jpeg" width="598" height="600">
+<img src="https://github.com/Kavyapriyakp/NASA-Ally/blob/main/images/ally%20logo.jpeg?raw=true" width="598" height="600">
 </p>
 
 ### How to run the website?
